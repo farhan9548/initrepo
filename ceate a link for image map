@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML IMAGE MAP</title>
+</head>
+<body>
+<h1>With html image map we can create clickalbe areas on image</h1>
+<p>The html <map> tag defines an image  map.an image map is anwith clickabl;e ares .the areas are defined with one or more <area> tags.click on the computer , thgew phone or the cup more of ttea coffee to go to a new page and read more aboutt the topic  </p>
+
+<img src="workplace.jpg" alt="workplace" height="379" width="400" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="computer" href="computer.html">
+  <area shape="rect"coords="290,172,333,250" alt="phone" href="phone.html">
+  <area shape="circle" coords="337,300,44" alt="cup of coffee" href="coffee.html" >
+  
+</map>  
+
+</body>
+</html>
+ 

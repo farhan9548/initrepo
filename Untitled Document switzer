@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<form>
+<label>first name</label>
+<input type="firstname"name="name"><br>
+<label>user id</label>
+<input type="user id"value="user"><br>
+</form>
+</html>
+

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+   background-color: tomato;
+   color: white;
+   border: 2px solid black;
+   margin: 20px;
+   padding: 20px; 
+}
+</style>
+</head>
+<body>
+
+
+<div class="city">
+ <h2>London</h2>
+ <p>London is the capital of england.</p>
+ </div>
+
+
+<div class="city">
+<h2>france</h2>
+<p>France is the capital of paris.</p>
+</div>
+
+<div class="city">
+<h2>canbera<h2>
+<p>Canbera is the capital of australia</p>
+</div>
+
+<div class="city">
+<h2>kingustan</h2>
+<p>Kingustan is the capital of newzeland</p>
+<div>
+
+</body>
+</html>

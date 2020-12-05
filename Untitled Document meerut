@@ -1,0 +1,24 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+<form>
+
+<input type="checkbox"name="sport1"value="cricket">cricket<br>
+
+<input type="checkbox"name="sport2"value="football">football<br>
+
+<input type="checkbox"name="sport3"value="baseball">baseball<br>
+
+<input type="checkbox"name="sport4"value="judo">judo<br>
+
+<input type="submit"vlue"submit">
+
+</form>
+
+</body>
+

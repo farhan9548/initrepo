@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle>link  tag</tittle>
+</head>
+<body>
+<link rel="stylesheet"type="text/css"herf="htmlpages/css/link.css">
+<h2>example of  a link tag</h2>
+<p>this is tha paragraph which is styled for extre</p>
+</body>
+</html>

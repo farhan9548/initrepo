@@ -1,0 +1,13 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+<input type="button"value="click me"onclick="alert('you are lerning html')">
+
+</form>
+
+</html>

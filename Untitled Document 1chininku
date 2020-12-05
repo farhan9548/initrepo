@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body bgcolor="yellow">
+<h2>Registration form</h2>
+<form>
+
+<label>Enter your name</label>
+
+<input type="text"name="name">
+
+<p>Kindly select your game</p>
+
+<input type="checkbox"name="sport1"value="cricket">cricket<br>
+
+<input type="checkbox"name="sport2"value="football">football<br>
+
+<input type="checkbox"name="sport2"value="baseball">baseball<br>
+
+<input type="checkbox"name="sport3"value="judo">judo<br>
+
+<input type="checkbox"name="sport4"value="shooting">shooting<br>
+
+<input type="checkbox"name="sport5"value="polo">polo<br>
+
+<input type="checkbox"name="sport6"value="jumping">jumping<br>
+
+<input type="checkbox"name="sport3"value="atheletics">atheletics<br><br>
+
+
+
+<input type="submit"value="submit">
+
+<input type="reset"value="reset">
+
+</form>
+</body>
+<html>

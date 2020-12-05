@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle>Input "text" type</tittle>
+</head>
+<body>
+<h>the text field define a single line input text field</h>
+
+<form>
+<label>First name</label><br>
+<input type="text" name="firstname"><br>
+<label>Last name</label><br>
+<input type="text" name="last name"><br>
+<p><stron>NOTE</strong>The default maximum lengthh of character is 20</p>
+</body>
+</html>

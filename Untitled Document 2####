@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<form>
+<iniput type="radio"name="sport"value="cricket">cricket<br>
+</form>
+</html>

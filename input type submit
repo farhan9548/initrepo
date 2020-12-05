@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><tittle></tittle>
+</head>
+<body>
+<h3>Input "password" type: </h3>
+<p>The <strong>"password"</strong>field defines a single line input password field to enter the password securely .</p>
+<form>
+<label>enter user name</label><br>
+
+<input type="text"name="username"><br>
+
+<label>Enter password</label><br>
+
+<input type="password"name="password"><br>
+
+
+<br><input type="submit" value="submit">
+
+</form>
+
+</html>  

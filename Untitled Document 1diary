@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<head>
+
+</head>
+
+<body>
+
+<form>
+
+<label>user name</label>
+
+<input type="text"name="name"><br>
+
+<label>user id</label>
+
+<input type="text"name="user-id"name="user"><br>
+
+<label>enter password</label>
+
+<input type="password"name="password"><br>
+
+<label>email id</label>
+
+<input type="text"name="email id">
+
+<br><br>
+
+<input type="submit"value="login">
+
+<input type="reset"value="reset">
+
+
+</form>
+
+</html>
+
+
+
+
+
+
+
+
+

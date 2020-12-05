@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+        
+        <head>
+             
+             <title>Block and inline tag</title>								
+             
+        </head>
+        <body>
+                     
+              <div class="container">
+               
+                 <div class="header">
+                 
+                      <h1>Heading h1</h1>     
+                   
+                  </div>    
+                  
+                  <div class="page-content">
+                  
+                      <p>Hello world</p>
+                  
+                  </div>    
+                  
+                  <div class="footer">
+                  
+                      <p>This is a footer</p>
+                  
+                   </div>
+                   
+                </div>
+                
+                
+                <div class="container">
+                
+                     <p>This <span>is <b>sample</b>
+                     </span> paragraph
+                     </p>
+                     
+                 </div> 
+             
+         </body>        
+               
+   </html>     
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                      

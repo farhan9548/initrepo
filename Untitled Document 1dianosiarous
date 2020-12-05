@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html>
+
+ <head>
+ 
+ <tittle>HTML tfoot tag</tittle>
+<body bgcolor="yellow"> 
+ <style>
+
+   table{
+   
+     border-collapes:collapse;
+     
+     }
+     
+   thead,tfoot{
+   
+      background-color:pink;
+      
+      }
+      
+     tbody{
+
+      backgroud-color:pink;
+      
+       }
+       
+     </style>
+     
+     </head>
+     
+  <body>
+  
+  <h1>Example of tfoot tag</h1>
+  
+  <table border="1">
+  
+         <thead>      
+   <tr>
+   
+   <th>items</th>
+   
+   <th>quality</th>
+   
+   <th>expendature</th>
+   
+ </tr>
+
+ </thead>
+ 
+  <tfoot>
+  
+   <tr>
+   
+     <th>total</th>
+
+     <th>90</th>
+
+     <th>4175</th>
+
+     </tr>
+     
+         </tfoot>
+
+         <tbody> 
+
+   <tr>
+
+     <td>books</td>
+
+     <td>5</td>
+
+     <td>1500</td>
+
+   </tr>
+
+   <tr>
+
+      <td>dreawing-paper</td>
+
+      <td>50</td>
+
+      <td>800</td>
+
+   </tr>
+
+   <tr>
+
+     <td>maker</td>
+
+     <td>35</td>
+
+     <td>1875</td>
+
+     </tr>
+     
+   <tbody>
+ </table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

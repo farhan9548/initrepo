@@ -1,0 +1,12 @@
+<html>
+<head>
+</head>
+<body>
+<form> which game you want to choose:<br>
+<input type="checkbox" id="football" name="football"value="football" color="red"checked=?yes?/>
+<label>football</label><br>
+<input type="checkbox" id="baseball"name="baseball"value="baseball">
+<label>baseball<br>
+</form>
+</body>
+</html>

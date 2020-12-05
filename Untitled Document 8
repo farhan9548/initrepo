@@ -1,0 +1,27 @@
+<html>
+<head>
+<tittle>Welcome to checkbox</tittle>
+</head>
+<body>
+<form>
+programming language:<br>
+<input type="checkbox" id="c" name="c" value="c"/>
+<label>c</label><br>
+<input type="checkbox"id="java" name="java" value="java" checked=?yes?/>
+<label>java</label><br>
+<input type="checkbox"id="python" name="python" value="python"/>
+<label>python</label><br>
+<input type="checkbox"id="php"name="php"value="php"checked=?no?/>
+<label>php</label><br>
+<input type="checkbox"id="cotlin"name="cotlin"value="cotlin checked=?no?/>
+<label>cotlin</label><br>
+<input type="checkbox"id="css"name="css"value="css"checked=?no?/>
+<label>css</label><br>
+<input type="checkbox"id="c++"name="c++"value="c++"checked=?no?/>
+<label>c++</label><br>
+<input type="checkbox"id="c#"name="c#"value="c#"checked=?no?/>
+<label>c#</label><br>
+</form>
+</html>
+
+

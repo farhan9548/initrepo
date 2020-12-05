@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+
+<marquee width="600px"height="700px"behavior="slide"style="border:2px solid red"bgcolor="pink"><h1>Delhi metro mai aapka swagat hai<h1>
+<h2>hello</h2>
+<h3>india is a large country</h3>this tag is use for scroll the text or image horizontally or vertically</marquee>
+</body>
+

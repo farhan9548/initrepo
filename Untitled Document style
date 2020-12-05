@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>inawm</h2>
+<p>we use clickable image</p>
+<img arc="IMG_20201026_004030.jpg"alt="wortkmap"usemap="#workmap"height="379"width="400">
+   <map name="workmap">
+   <area shape="rect"coords="34,44,270,350"alt="computer"href="computer.jpg">
+   <area shape="rect"href="phone.jpg"coords="290,172,333,250"alt="phone">
+   <area shape="circle"href="coffee.jpg"coords="337,300,44"alt="coffee">
+</body>
+</html>

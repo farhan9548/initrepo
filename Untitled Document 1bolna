@@ -1,0 +1,9 @@
+<html>
+<head>
+</head>
+<body>
+<input type="date"name="days">
+<input type="days"name="numdays"min="20"max="24">
+</form>
+</body>
+</html>

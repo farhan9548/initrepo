@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<p>this is a quote element</p>
+
+<blockquote>this tag is inly<blockquote>
+<p>this is a great<q>scientist of india</q>of india</p>
+
+<p>this paragraph is<abbr>use for</abbr>
+
+<p>this a car<bdo dir="ltl">made by nicolas</bdo>methew</p>
+
+<addres>he live in canada</address>
+
+<!--This is a comments -->
+
+this is a comment
+
+
+
+
+
+<!-- comments are not display in the browser -->
+
+<h1 style="background-color:tomato;">Tomato</h1>
+
+<h1 style="background-color:orange;">Orange</h1>
+
+<h1 style="background-color:powderblue;">color</h1>
+
+<h1 style="background-color:pink;">movie</h1>
+
+<h1 style="background-color:red;">Rose</h1>
+
+<h1 style="background-color:green;">lotus</h1>
+
+<h1 style="background-color:yellow;">mango</h1>
+
+<h1 style="background-color:blue;">sky</h1>
+
+<h1 style="background-color:"black">shirt</h1>
+
+<h1 style="background-color:"grey">shoes</h1>
+
+<h1 style="color:blue;">a blue heading</h1>
+
+<h1 style="coloe:chicken;"> a saam to pta</h>
+
+</body>
+
+</html>

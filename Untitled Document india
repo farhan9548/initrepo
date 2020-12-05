@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>This list about the description list</title>
+</head>
+<body>
+<ul>
+   <li>coffee</li>
+   <li>tea</li>
+   <li>milk</li>
+</ul>
+<ol>
+    <li>coffe</li>   
+    <li>tea</li>
+    <li>milk</li>
+</ol>
+<dl>
+    <dt>coffe</dt>    
+    <dd>-black hot drink</dd>
+    <dd>milk</dd>
+    <dd>-white cold drink</dd>
+</dl>    
+</body>
+</html>
+   

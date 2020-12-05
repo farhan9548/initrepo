@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>the address element</h1>
+<address>written from 
+<a href="mailto:mohammedfarhan976010@gmail.com">home</a><br>
+box 564,disneyland<br>
+usa
+</address>
+</body>
+</html>
+
+
